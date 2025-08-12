@@ -20,7 +20,7 @@ O resultado foi um modelo interpretativo que permite ao banco identificar client
 
 ## 🔗 Links do Projeto
 
-- **📄 Ficha Técnica**: [Ficha Técnica – Projeto 03 Laboratória]([https://coda.io/d/_d10_3IAh9IX/Ficha-Tecnica-Projeto-03-Laboratoria_suQ8taf9](https://coda.io/d/_d10_3IAh9IX/Ficha-Tecnica-Projeto-03-Laboratoria_suQ8taf9))  
+- **📄 Ficha Técnica**: [Ficha Técnica – Projeto 03 Laboratória](https://coda.io/d/_d10_3IAh9IX/Ficha-Tecnica-Projeto-03-Laboratoria_suQ8taf9)  
 - **📊 Dashboard Interativo**: [Looker Studio](https://lookerstudio.google.com/reporting/d7dc7dbd-0453-4992-932c-ce84aa2a2479)  
 - **🎥 Apresentação em Vídeo**: [Loom](https://www.loom.com/share/77f8feac3c7d4a50a5f586d7c5341e5b?sid=82fa3b6b-ef93-4a93-ab4f-9da27fd7d9a7)
 
